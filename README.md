@@ -1,6 +1,6 @@
 # Hi, I'm Bhuvanesh L 👋
 
-### 🔐 Cybersecurity Student | Cloud Computing | Aspiring Security Engineer
+### 🔐 Junior Data Engineer | Cybersecurity Student | Cloud Computing | Aspiring Security Engineer
 
 I'm a B.Tech Cyber Security student passionate about cybersecurity, cloud computing, ethical hacking, and threat detection. I'm exploring cloud platforms and services to understand how secure, scalable, and reliable cloud infrastructures are built.
 
